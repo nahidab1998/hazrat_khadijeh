@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hazrat Khadijeh</string>
+    <string name="home_text">صفحه اصلی</string>
+    <string name="heart_text">دلنوشته</string>
+    <string name="search_text">در حال احداث</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_home">صفحه اصلی</string>
+    <string name="title_like">دل نوشته</string>
+    <string name="title_search">جست و جو</string>
+
+</resources>
